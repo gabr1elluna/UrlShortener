@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="UrlShortener2" />
+        <module name="RedirectUrlShortener" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="CreateUrlLambda" target="21" />
+      <module name="CreateUrlLambda (1) (com.rocketseat.urlShortener)" target="21" />
+      <module name="UrlShortener" target="21" />
+      <module name="UrlShortener2 (1)" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
